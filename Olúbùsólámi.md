@@ -13,5 +13,5 @@ The repository contains:
 This repository contain a 3-column card design and a Grid Layout design.
 ## Acknowledgements
 
- - [Olúbùsólámi README](https://github.com/olubusolami/Olúbùsólámi-readme)
+ - [Olúbùsólámi README](https://github.com/olubusolami/Assignments/blob/main/Ol%C3%BAb%C3%B9s%C3%B3l%C3%A1mi.md)
 
