@@ -11,7 +11,17 @@ The repository contains:
 
 ## 🚀 Week 4
 This repository contain a 3-column card design and a Grid Layout design.
-## Acknowledgements
 
- - [Olúbùsólámi README](https://github.com/olubusolami/Assignments/blob/main/Ol%C3%BAb%C3%B9s%C3%B3l%C3%A1mi.md)
+
+## 🔗 Links
+[![olubusolami](https://img.shields.io/badge/olubusola-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/olubusolami/olubusolami)
+
+
+## Acknowledgements
+ - [Awesome README](https://github.com/olubusolami/Assignments/blob/main/Ol%C3%BAb%C3%B9s%C3%B3l%C3%A1mi.md)
+
+
+
+
+
 
